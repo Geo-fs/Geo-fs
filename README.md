@@ -2,7 +2,7 @@
 - 👀 I’m interested in GeoFS flight sim
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on A CHROME extension for GeoFS
-- 📫 How to reach me csenterpirisesmn@gmail.com
+- 📫 How to reach me computing.ai.arc@gmail.com
 
 <!---
 Geo-fs/Geo-fs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
